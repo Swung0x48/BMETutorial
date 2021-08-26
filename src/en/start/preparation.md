@@ -14,7 +14,7 @@ Ballex and BME can be launched from local directory. Ensure that:
 
 :::
 
-## Adjust the Interface
+## Simple Settings
 
 ### Change Frame Rate
 
@@ -24,7 +24,7 @@ Ballex and BME can be launched from local directory. Ensure that:
 
 `Settings → Scale Rate`
 
-## Set Ballex Path
+### Set Ballex Path
 
 `Settings → Set Ballex Path`
 
@@ -80,7 +80,7 @@ Unimported assets are shown here. For most cases, just `Import` them all and see
 
 ::: warning
 
-Obsolete assets won't be removed automatically. You can right-click and remove them manually.
+Deprecated assets won't be removed automatically. You can right-click and remove them manually.
 
 See: [More → Versioning → Migration Guide](/en/migration/guide.md).
 

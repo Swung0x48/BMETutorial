@@ -4,7 +4,7 @@
 
 `Create → Create Level Info`
 
-First things first. Remember to always do this instantly after creating a new map so as to avoid weird things. [Scene of accident](/en/faq/#weather-or-initial-ball-type-doesn-t-match-the-settings-during-maptest)
+First things first. Remember to always do this **instantly** after creating a new map, to avoid any weird thing happen. [Scene of accident](/en/faq/#weather-or-initial-ball-type-doesn-t-match-the-settings-during-maptest)
 
 See how to fill it in [here](/en/glossary/assets-in-menu.md#level-info).
 
@@ -57,11 +57,11 @@ Use `MouseScroll`.
 
 `F`, press to trigger.
 
-The view will automatically change to focus on the selected object, and set current position as the center of view adjustments.
+The view will automatically change to focus on the selected object, and current position is set as the base point of view.
 
 ::: tip
 
-All view adjustments are based on this center. Try to focus and change it if it's hard to change the view.
+All view adjustments are relative to the aforementioned point. Try to focus and change it if it's hard to change the view.
 
 :::
 
@@ -118,9 +118,9 @@ In `Hierarchy` window: Use `Ctrl` `Shift` in common sense.
 
 ::: tip
 
-The selection field is judged in orthogonal view, and an object is selected if **any part of it** is in the field.
+In `Scene` window, the selection field is judged in orthogonal view, and an object is selected if **any part of it** is in the field.
 
-In order not to select any unneeded object, using [orthogonal](#toggle-perspective-orthogonal-view) and [overlook](#three-views) view to multi-select is recommended.
+[Orthogonal](#toggle-perspective-orthogonal-view) and [overlook](#three-views) view will come in handy if you don't want to select any unneeded object.
 
 :::
 
@@ -154,7 +154,7 @@ Ballex will launch automatically and enter maptest mode if you've [set Ballex pa
 
 Destination can't be activated in maptest mode.
 
-[Here](/en/start/test-map.md) is a checklist for your reference if you've finished your map and are doing final tests.
+[Here](/en/start/map-testing.md) is a checklist for your reference if you've finished your map and are doing final tests.
 
 :::
 
@@ -162,7 +162,7 @@ Destination can't be activated in maptest mode.
 
 `Coord. (x, y, z)` shows the coordinate of player ball center.
 
-~~Be aware of the coordinate axis, for example the gravity applies opposite to Y axis~~
+~~Be aware of the coordinate axis, e.g. the gravity applies opposite to Y axis~~
 
 ### Jump to Next Section
 
@@ -187,7 +187,7 @@ You can change `CameraDistance`, `CameraAltitude`, `CameraFOV`, `CameraYaw`, `Ca
 
 ### Auto Backup
 
-A `.bpk` backup will be generated before every maptest and can be used for rescue:
+A `.bpk` backup file is generated before every maptest and can be used for rescue:
 
 - Win: `%USERPROFILE%\AppData\LocalLow\MushREB\Ballex MapEditor\Maps\`
 - Mac: `~/Library/Application Support/com.MushREB.BallexMapEditor/Maps/`

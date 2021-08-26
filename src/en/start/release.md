@@ -12,7 +12,7 @@ You can unpack `.bms` files in BME 3.5.1b1 or newer versions.
 
 If you want to upload it to Steam Workshop, continue reading.
 
-Every player can play this map from now on, so do comprehensive [tests](/en/start/test-map.md) and always pay attention to its quality!
+Every player can play this map from now on, so [do comprehensive tests](/en/start/map-testing.md) and always pay attention to its quality!
 
 :::
 
@@ -26,9 +26,9 @@ The cover should be in `.jpg` format, and recommended resolution is 1920×1080.
 
 Map name should be the same as [level info](/en/glossary/assets-in-menu.md#level-info). If possible, you can append its translation.
 
-It's recommended that the description tells number of sections and map difficulty. Estimated time for first-seen pass, characteristics of map and other relevant information can be added. If possible, you can provide its translation.
+It's recommended that the description tells number of sections and map difficulty. Estimated time for first attempt, characteristics of map and other relevant information can be added. If possible, you can provide its translation.
 
-_English only is OK, and we are encouraging Chinese mappers to translate everything into English if possible._
+_English only is okay, and we are encouraging Chinese mappers to translate everything into English if possible._
 
 ## Upload to Steam Workshop
 

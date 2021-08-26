@@ -118,5 +118,5 @@ Properties:
 - Save points must be activated sequentially from #1, and destination can be activated only after all save points have been activated.
 - If save point numbers is not a continuous sequence starting from 1, you can export but never pass the map.
 - If there're multiple save points with same number, the first added one is valid and others will disappear.
-- In order to ensure the that the map is loaded correctly, intersecting start point and destination will cause game over. Please place the destination beside (for example behind) the start point if needed.
+- In order to ensure the that the map is loaded correctly, intersecting start point and destination will cause game over. Please place the destination beside (e.g. behind) the start point if needed.
   See also: [Walkthrough of _口语 Challenge #10: 置之死地而后生_](https://www.bilibili.com/video/BV1Xz4y1m7GC)

@@ -55,7 +55,7 @@ Often applied when moving objects in a batch (for instance, a whole section) to 
 
 When an identical object is nearby, [duplicate](/en/start/basic-operation.md#duplicate-objects) it and perform a [quantized move](/en/start/basic-operation.md#quantization) to pinpoint its position. It can save you a lot of hassle. (Especially those having the same posture!)
 
-Specially, when a lot of identical objects are to be placed orderly (e.g. ~~dahkjdas' tower~~ chessboard), this method will come in real handy.
+Specially, when a lot of identical objects are to be placed orderly (e.g. ~~<ruby>dahkjdas' tower<rt>大恒方尖碑</rt></ruby>~~ chessboard), this method will come in real handy.
 
 ::: tip
 

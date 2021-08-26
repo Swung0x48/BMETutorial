@@ -14,7 +14,7 @@ Ballex 和 BME 均可从本地目录直接双击启动，打开前请确保：
 
 :::
 
-## 调整界面
+## 基本设置
 
 ### 设置帧率
 
@@ -24,7 +24,7 @@ Ballex 和 BME 均可从本地目录直接双击启动，打开前请确保：
 
 `Settings → Scale Rate`
 
-## 设置 Ballex 路径
+### 设置 Ballex 路径
 
 `Settings → Set Ballex Path`
 

@@ -58,6 +58,6 @@ If you've been exposed to Unity, or if you're highly perceptive, here are the ke
 - Look up in the [glossary](/en/glossary/). For example, there's what you want in `04_StoneRoad → 1_Construct → 1_Cap`.
 - You can [set the coordinates](/en/start/alignment.md#coordinate-alignment) in `Inspector` window or hold `V` to [align the vertices](/en/start/alignment.md#vertex-alignment).
 - Master the [shortcuts](/en/start/shortcuts.md).
-- Spare some time to [test map](/en/start/test-map.md), test map, and test map.
+- Spare some time to [test map](/en/start/map-testing.md), test map, and test map.
 
 ~~Great! Now you've got it!~~
