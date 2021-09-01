@@ -19,12 +19,12 @@
 | [Moving Mode](/en/start/basic-operation.md#moving-mode)       | `W`        |
 | [Rotation Mode](/en/start/basic-operation.md#rotation-mode)   | `E`        |
 | [Scaling Mode](/en/start/basic-operation.md#scaling-mode)     | `R`        |
-| Global / Local Coordinate                                     | `X`        |
-| Combined / Separated Origin                                   | `Z`        |
+| Inertial Axis                                                 | `X`        |
+| Combined Origin                                               | `Z`        |
 
 ::: tip
 
-Global / Local Coordinate and Combined / Separated Origin will be talked about in [Advanced](/en/advanced/) section.
+Inertial Axis and Combined Origin will be talked about in [advanced](/en/advanced/) part.
 
 :::
 

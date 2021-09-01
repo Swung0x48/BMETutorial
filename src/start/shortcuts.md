@@ -19,12 +19,12 @@
 | [移动模式](/start/basic-operation.md#移动模式) | `W`        |
 | [旋转模式](/start/basic-operation.md#旋转模式) | `E`        |
 | [缩放模式](/start/basic-operation.md#缩放模式) | `R`        |
-| 全局坐标系                                     | `X`        |
+| 惯性系                                         | `X`        |
 | 轴心合并                                       | `Z`        |
 
 ::: tip
 
-全局坐标系功能和轴心合并功能将在进阶版块讲解。
+惯性系和轴心合并将在进阶版块讲解。
 
 :::
 

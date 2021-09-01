@@ -131,7 +131,11 @@ module.exports = {
               text: "进阶",
               link: "/advanced/",
               collapsable: false,
-              children: [],
+              children: [
+                "axis-and-origin.md",
+                "advanced-rail-concatenating.md",
+                "cooperation-mapping.md",
+              ],
             },
           ],
 
@@ -362,7 +366,11 @@ module.exports = {
               text: "Advanced",
               link: "/en/advanced/",
               collapsable: false,
-              children: [],
+              children: [
+                "axis-and-origin.md",
+                "advanced-rail-concatenating.md",
+                "cooperation-mapping.md",
+              ],
             },
           ],
 

@@ -8,8 +8,6 @@
 
 ::: tip
 
-You can unpack `.bms` files in BME 3.5.1b1 or newer versions.
-
 If you want to upload it to Steam Workshop, continue reading.
 
 Every player can play this map from now on, so [do comprehensive tests](/en/start/map-testing.md) and always pay attention to its quality!
