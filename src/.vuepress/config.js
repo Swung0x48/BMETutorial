@@ -418,8 +418,11 @@ module.exports = {
   plugins: [
     ["@vuepress/plugin-shiki", { theme: "dark-plus" }],
     [
-      "@vuepress/plugin-search",
+      "@vuepress/docsearch",
       {
+        appId: "Q409HCH0AR",
+        apiKey: "c730727a0cff094aa2c23cc2643fbbb9",
+        indexName: "BMETutorial",
         locales: {
           "/": {
             placeholder: "搜索",
